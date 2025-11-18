@@ -1,4 +1,4 @@
-# Firebase + Flask REST API (example)
+# Firebase + Flask REST API
 
 This repository contains a minimal Flask REST API that uses Google Firebase Firestore as a persistent store.
 
